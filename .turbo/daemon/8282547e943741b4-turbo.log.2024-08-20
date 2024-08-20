@@ -645,3 +645,7 @@
 2024-08-20T14:42:32.647003Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/UserApp/.next/_events.json"), AnchoredSystemPathBuf("apps/UserApp/.next/trace")}
 2024-08-20T14:42:32.647040Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/UserApp") }}))
 2024-08-20T14:42:32.661860Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T14:44:24.145338Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2024-08-20T14:44:24.145425Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-20T14:44:25.544685Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("README.md")}
+2024-08-20T14:44:25.544703Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
