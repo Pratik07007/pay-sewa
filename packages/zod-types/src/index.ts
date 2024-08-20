@@ -16,4 +16,5 @@ export const signUpInputs = z.object({
     }),
 });
 
-export type signInInputsTypes = z.infer<typeof signUpInputs>;
+export type signInInputsTypes = z.infer<typeof signUpInputs>;  
+ 

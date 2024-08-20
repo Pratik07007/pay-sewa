@@ -1,0 +1,7 @@
+{
+  "extends": "@pay-sewa/typescript-config/base.json",
+  "compilerOptions": {
+    "outDir": "./dist"
+  },
+  "exclude": ["dist"]
+}
