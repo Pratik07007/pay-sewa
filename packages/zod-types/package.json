@@ -1,0 +1,12 @@
+{
+  "name": "@pay-sewa/zod-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "exports": {
+    "./zod": "./src/index.ts"
+  }
+}

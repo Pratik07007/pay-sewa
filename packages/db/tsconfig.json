@@ -1,0 +1,4 @@
+{
+  "extends": "@pay-sewa/typescript-config/base.json"
+  
+}

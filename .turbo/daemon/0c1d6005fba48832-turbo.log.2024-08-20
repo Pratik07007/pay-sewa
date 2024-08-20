@@ -1,0 +1,63 @@
+2024-08-20T11:35:22.657826Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie"), AnchoredSystemPathBuf(".turbo/cookies/1.cookie")}
+2024-08-20T11:35:22.657837Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-20T11:35:22.758056Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cache")}
+2024-08-20T11:35:22.758070Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-08-20T11:35:24.257367Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/BankWebHook/dist/index.js"), AnchoredSystemPathBuf("apps/BankWebHook/dist")}
+2024-08-20T11:35:24.257383Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("bankwebhook"), path: AnchoredSystemPathBuf("apps/BankWebHook") }}))
+2024-08-20T11:35:25.457254Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/UserApp/next-env.d.ts")}
+2024-08-20T11:35:25.457265Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/UserApp") }}))
+2024-08-20T11:35:25.957525Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/UserApp/.next/static/development"), AnchoredSystemPathBuf("apps/UserApp/.next/server"), AnchoredSystemPathBuf("apps/UserApp/.next"), AnchoredSystemPathBuf("apps/UserApp/.next/package.json"), AnchoredSystemPathBuf("apps/UserApp/.next/static")}
+2024-08-20T11:35:25.957537Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/UserApp") }}))
+2024-08-20T11:35:25.957559Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:35:26.956853Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/UserApp/.next/server/server-reference-manifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/fallback-build-manifest.json.tmp.1p5svu9v3nz"), AnchoredSystemPathBuf("apps/UserApp/.next/build-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/middleware-build-manifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/server/font-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/next-font-manifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/static/development/_ssgManifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/fallback-build-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/middleware-react-loadable-manifest.js.tmp.occ3vozux0a"), AnchoredSystemPathBuf("apps/UserApp/.next/server/server-reference-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/react-loadable-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/app-build-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/next-font-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/next-font-manifest.js.tmp.b3xfeyk8af7"), AnchoredSystemPathBuf("apps/UserApp/.next/static/development/_buildManifest.js.tmp.jxtaq8epltk"), AnchoredSystemPathBuf("apps/UserApp/.next/server/app-paths-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/middleware-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/server/font-manifest.json.tmp.jjrxr35igok"), AnchoredSystemPathBuf("apps/UserApp/.next/server/middleware-build-manifest.js.tmp.119at79naxn"), AnchoredSystemPathBuf("apps/UserApp/.next/static/development/_buildManifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/server/middleware-react-loadable-manifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/static/development/_ssgManifest.js.tmp.x20qe7l1obe"), AnchoredSystemPathBuf("apps/UserApp/.next/server/app-paths-manifest.json.tmp.ebsnisgu5b"), AnchoredSystemPathBuf("apps/UserApp/.next/app-build-manifest.json.tmp.y94aed0e2va"), AnchoredSystemPathBuf("apps/UserApp/.next/server/pages-manifest.json"), AnchoredSystemPathBuf("apps/UserApp/.next/build-manifest.json.tmp.76txiis2tr4"), AnchoredSystemPathBuf("apps/UserApp/.next/server/interception-route-rewrite-manifest.js"), AnchoredSystemPathBuf("apps/UserApp/.next/server/middleware-manifest.json.tmp.0uwlalt4jwu"), AnchoredSystemPathBuf("apps/UserApp/.next/server/next-font-manifest.json.tmp.f851sd3arp"), AnchoredSystemPathBuf("apps/UserApp/.next/server/pages-manifest.json.tmp.d76zpcwo4q"), AnchoredSystemPathBuf("apps/UserApp/.next/react-loadable-manifest.json.tmp.7ajz5epjf8l"), AnchoredSystemPathBuf("apps/UserApp/.next/server/interception-route-rewrite-manifest.js.tmp.x9ynnyj2s1j")}
+2024-08-20T11:35:26.956888Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/UserApp") }}))
+2024-08-20T11:35:26.956910Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:35:33.856385Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/UserApp/.next/_events.json")}
+2024-08-20T11:35:33.856403Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/UserApp") }}))
+2024-08-20T11:35:33.856433Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:35:40.756920Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/BankWebHook/.env")}
+2024-08-20T11:35:40.756933Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("bankwebhook"), path: AnchoredSystemPathBuf("apps/BankWebHook") }}))
+2024-08-20T11:35:40.756949Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:35:42.556122Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/BankWebHook/.env")}
+2024-08-20T11:35:42.556170Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("bankwebhook"), path: AnchoredSystemPathBuf("apps/BankWebHook") }}))
+2024-08-20T11:35:42.556200Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:35:52.855694Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/BankWebHook/.env")}
+2024-08-20T11:35:52.855721Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("bankwebhook"), path: AnchoredSystemPathBuf("apps/BankWebHook") }}))
+2024-08-20T11:35:52.867431Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:36:27.354527Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/BankWebHook/.env")}
+2024-08-20T11:36:27.354574Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("bankwebhook"), path: AnchoredSystemPathBuf("apps/BankWebHook") }}))
+2024-08-20T11:36:27.354618Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:36:29.155830Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/BankWebHook/.env")}
+2024-08-20T11:36:29.155843Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("bankwebhook"), path: AnchoredSystemPathBuf("apps/BankWebHook") }}))
+2024-08-20T11:36:29.155859Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:36:39.555630Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:36:39.555644Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:36:41.155084Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:36:41.155106Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:36:41.155133Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:36:45.555210Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:36:45.555234Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:36:45.555263Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:36:50.754154Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:36:50.754174Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:36:50.764879Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:36:58.253910Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/prisma/schema.prisma")}
+2024-08-20T11:36:58.253931Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:00.253820Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/prisma/schema.prisma")}
+2024-08-20T11:37:00.253838Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:01.454795Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/prisma/schema.prisma")}
+2024-08-20T11:37:01.454818Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:06.354531Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/prisma/schema.prisma")}
+2024-08-20T11:37:06.354577Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:07.453743Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/prisma/schema.prisma")}
+2024-08-20T11:37:07.453758Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:10.954607Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:37:10.954654Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:10.954711Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:37:14.154275Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:37:14.154318Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:14.154370Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:37:14.353488Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/db/.env")}
+2024-08-20T11:37:14.353519Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@pay-sewa/db"), path: AnchoredSystemPathBuf("packages/db") }}))
+2024-08-20T11:37:14.353555Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2024-08-20T11:37:33.424481Z  WARN turborepo_lib::daemon::server: Root watcher triggering shutdown

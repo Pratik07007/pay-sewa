@@ -1,0 +1,9 @@
+{
+  "extends": "@pay-sewa/typescript-config/base.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true
+  },
+  "exclude": ["node_module", "dist"],
+  "include": ["src"]
+}

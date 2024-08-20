@@ -1,0 +1,17 @@
+{
+  "name": "bankwebhook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsup src/index.ts  --watch --onSuccess \"node --env-file=.env dist/index.js\"",
+    "build": "tsup src/index.ts", 
+    "clean": "rm -r ./dist"
+  },
+  "dependencies": {
+    "@pay-sewa/db":"*"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
