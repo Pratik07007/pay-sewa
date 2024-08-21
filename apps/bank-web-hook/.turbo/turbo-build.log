@@ -1,0 +1,20 @@
+
+Debugger listening on ws://127.0.0.1:62304/9437985e-568a-45c2-8cdc-4673e3658148
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+
+> @paysewa/bank-web-hook@1.0.0 build
+> tsup src/index.ts
+
+[1G[0KDebugger listening on ws://127.0.0.1:62308/3c01b505-f7c7-4787-a6aa-16105736f2e5
+For help, see: https://nodejs.org/en/docs/inspector
+Debugger attached.
+[34mCLI[39m Building entry: src/index.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.2.4
+[34mCLI[39m Target: es2022
+[34mCJS[39m Build start
+[32mCJS[39m [1mdist/index.js [22m[32m1.13 MB[39m
+[32mCJS[39m ⚡️ Build success in 108ms
+Waiting for the debugger to disconnect...
+[1G[0K⠙[1G[0KWaiting for the debugger to disconnect...
